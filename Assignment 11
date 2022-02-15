@@ -1,0 +1,11 @@
+a=int(input('enter a:'))
+b=int(input('enter b:'))
+print (a+b)
+print (a-b)
+print (a*b)
+Output:-
+enter a:2
+enter b:4
+6
+-2
+8
