@@ -1,0 +1,12 @@
+sum=0
+f=1
+n=int(input ('enter the Number:'))
+for i in range (1,n+1):
+      f=f*i
+      sum=sum+f
+print("Factorial of the given number is:",f)
+print ("sum of Factorials upto:",n,"=",sum)
+Output:-
+enter the Number:4
+Factorial of the given number is:24
+sum of Factorials upto:4=33
