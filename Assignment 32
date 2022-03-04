@@ -1,0 +1,8 @@
+assignment 2
+tup1=("a","d","i","t","y","a")
+tup2=("b","c","a")
+tup3=(tup1+tup2)
+print(tup3)
+
+output:
+('a', 'd', 'i', 't', 'y', 'a', 'b', 'c', 'a')
